@@ -1,4 +1,4 @@
-### Hi there, I'm Artur
+### ʜɪ ᴛʜᴇʀᴇ, ɪ'ᴍ ᴀʀᴛᴜʀ
 ## I'm a Back-end Developer
 
 ### Languages and Tools:
