@@ -1,4 +1,4 @@
-WEB Full-stack developer
+Mobile developer
 ------------------------
 
 *   🌍  I'm based in Ukraine
