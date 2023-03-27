@@ -1,5 +1,4 @@
-Mobile developer
-* iOS Engineer[Swift] & Cross - Platform[ReactNative]
+Mobile developer | iOS Engineer[Swift] & Cross - Platform[ReactNative]
 ------------------------
 
 *   🌍  I'm based in Ukraine
