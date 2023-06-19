@@ -1,8 +1,8 @@
-Mobile developer | iOS Engineer[Swift] & Cross - Platform[ReactNative]
+Mobile developer | React Native
 ------------------------
 
 *   🌍  I'm based in Ukraine
-*   👨🏻‍💻  Used to React Native & Swift
+*   👨🏻‍💻  Used to React & React Native [TypeScript]
 
 
 ### Skills
