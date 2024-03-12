@@ -2,7 +2,7 @@ Mobile developer | React Native
 ------------------------
 
 *   🌍  I'm based in Ukraine
-*   👨🏻‍💻  Used to React & React Native [TypeScript]
+*   👨🏻‍💻  Used to NextJS & React Native [TypeScript]
 
 
 ### Skills
