@@ -1,5 +1,3 @@
-![INC4 Banner](https://drive.google.com/file/d/1kyEds0yMoNj3N-ljeUmNktObozXFUSs0/view)
-
 Mobile developer | React Native
 ------------------------
 
