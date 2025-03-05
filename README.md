@@ -4,6 +4,7 @@ Mobile developer | React Native
 *   🌍  I'm based in Ukraine
 *   👨🏻‍💻  Used to NextJS & React Native [TypeScript]
 
+[![Hits](https://u8views.com/api/v1/github/profiles/73081258/views/day-week-month-total-count.svg)](https://u8views.com/github/ArturHoncharuk)
 
 ### Skills
 <p align="left">
