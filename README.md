@@ -4,8 +4,6 @@ Mobile developer | React Native
 *   🌍  I'm based in Ukraine
 *   👨🏻‍💻  Used to NextJS & React Native [TypeScript]
 
-[![Hits](https://u8views.com/api/v1/github/profiles/73081258/views/day-week-month-total-count.svg)](https://u8views.com/github/ArturHoncharuk)
-
 ### Skills
 <p align="left">
   <a href="https://react.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -18,3 +16,5 @@ Mobile developer | React Native
           
 ### Used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturhoncharuk&hide_progress=false&layout=compact)
+
+[![Hits](https://u8views.com/api/v1/github/profiles/73081258/views/day-week-month-total-count.svg)](https://u8views.com/github/ArturHoncharuk)
