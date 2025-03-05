@@ -1,4 +1,4 @@
-![INC4 Banner]([http://url/to/img.png](https://drive.google.com/file/d/1kyEds0yMoNj3N-ljeUmNktObozXFUSs0/view))
+![INC4 Banner](https://drive.google.com/file/d/1kyEds0yMoNj3N-ljeUmNktObozXFUSs0/view)
 
 Mobile developer | React Native
 ------------------------
