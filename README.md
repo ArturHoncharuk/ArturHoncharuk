@@ -16,4 +16,5 @@ Mobile developer | React Native
             <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="Typescript" /></a>
                     </p>
 
+### Used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturhoncharuk&hide_progress=false&layout=compact)
