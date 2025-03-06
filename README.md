@@ -18,5 +18,3 @@ Mobile developer | React Native
 
 ### Language Analytics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturhoncharuk&hide_progress=false&layout=compact)
-
-[![Hits](https://u8views.com/api/v1/github/profiles/73081258/views/day-week-month-total-count.svg)](https://u8views.com/github/ArturHoncharuk)
