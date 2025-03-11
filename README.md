@@ -3,6 +3,7 @@ Mobile developer | React Native
 
 *   🌍  Based in Ukraine
 *   👨🏻‍💻  Used to React Native [TypeScript] + Swift
+*   🔭  Currently working on [**AirDAO**](https://airdao.io)
 
 ### Core Skills
 <p align="left">
