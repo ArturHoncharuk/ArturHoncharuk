@@ -3,7 +3,7 @@ Frontend (Web/Mobile) | React, React Native
 
 *   🌍  Based in Ukraine
 *   👨🏻‍💻  Used to React / React Native [TypeScript] + Swift
-*   🔭  Currently working on [**AirDAO**](https://airdao.io)
+*   🔭  Currently working on [**Ascendia**](https://ascendia.network)
 
 ### Core Skills
 <p align="left">
