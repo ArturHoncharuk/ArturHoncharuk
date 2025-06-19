@@ -1,4 +1,4 @@
-Frontend (Web/Mobile) | React, React Native
+Frontend Engineer (Web/Mobile) | React, React Native
 ------------------------
 
 *   🌍  Based in Ukraine
