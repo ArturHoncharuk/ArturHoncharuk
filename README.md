@@ -1,7 +1,6 @@
 <img src="inc4_banner.png" width="100%" alt="Banner" />
 
-<h1 align="left">Arthur Honcharuk</h1>
-<h3 align="left">React Native · TypeScript · Web3 Engineer</h3>
+<h1 align="left">React Native · TypeScript · Web3 Engineer</h1>
 
 <p align="left">
 Building scalable mobile & Web3 applications.<br/>
