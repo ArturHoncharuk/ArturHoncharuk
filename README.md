@@ -1,23 +1,43 @@
-<img src="inc4_banner.png" width="100%" alt="INC4 Banner">
+<img src="inc4_banner.png" width="100%" alt="Banner" />
 
-## Frontend Engineer (Web/Mobile) | React, React Native
-
-- 🌍 Based in Ukraine
-- 👨🏻‍💻 Used to React / React Native [TypeScript] + Swift
-
-### Core Skills
+<h1 align="left">Arthur Honcharuk</h1>
+<h3 align="left">React Native · TypeScript · Web3 Engineer</h3>
 
 <p align="left">
-  <a href="https://react.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJS" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-  <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Typescript" /></a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="Typescript" /></a>
+Building scalable mobile & Web3 applications.<br/>
+Focused on DeFi integrations, clean UI architecture, and resilient systems.
 </p>
 
-##
+---
 
-### Language Analytics
+### ⚙️ Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturhoncharuk&hide_progress=false&layout=compact)
+<p align="left">
+  <a href="https://reactnative.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
+  </a>
+  <a href="https://redux.js.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
+  </a>
+  <a href="https://graphql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" />
+  </a>
+</p>
+
+---
+
+### 🧩 Focus Areas
+
+- Web3 & DeFi integrations  
+- WalletConnect / EVM networks  
+- Scalable UI systems (React Native)  
+- Clean architecture & performance optimization  
+- AI-assisted features & automation  
+
+---
