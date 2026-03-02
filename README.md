@@ -12,8 +12,8 @@ Focused on DeFi infrastructure, resilient UI architecture, and production-grade 
 ## 🏗 Architecture Focus
 
 - Designing scalable React Native application structures
-- Multi-hop DeFi swap flows & EVM integrations
-- Wallet connectivity (WalletConnect, custom providers)
+- DeFi flows & EVM / SOL integrations
+- Wallet connectivity (WalletConnect, Dynamic, Reown, custom providers)
 - Performance optimization & rendering efficiency
 - Fault-tolerant async flows & state management
 - Clean, modular TypeScript architecture
