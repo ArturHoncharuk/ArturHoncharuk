@@ -1,6 +1,4 @@
-<img src="inc4_banner.png" width="100%" alt="Banner" />
-
-<h1 align="left">React Native · TypeScript · Web3 Systems Engineer</h1>
+<h1 align="left">React Native · TypeScript · AI & Web3 Systems Engineer</h1>
 
 <p align="left">
 Architecting scalable mobile & Web3 systems.<br/>
